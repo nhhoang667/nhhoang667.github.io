@@ -5,8 +5,8 @@
 ## 📦 drvupdate-amd64.exe
 🔗 [Tải ngay](drvupdate-amd64.exe)
 
-## 📦 IBC Tool for Windows
-🔗 [Tải bản EXE](ibc_tool.exe)
+## 📦 Xpert Tools
+🔗 [Tải zip](GX2000.zip)
 
 ## 📦 Tài liệu hướng dẫn
 🔗 [PDF](huongdan.pdf)
