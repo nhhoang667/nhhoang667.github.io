@@ -2,9 +2,6 @@
 
 ---
 
-## 📦 drvupdate-amd64.exe
-🔗 [Tải ngay](drvupdate-amd64.exe)
-
 ## 📦 Xpert Tools
 🔗 [Tải zip](GX2000.zip)
 
