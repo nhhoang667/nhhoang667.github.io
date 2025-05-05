@@ -8,7 +8,7 @@
 ## 📦 Xpert Tools
 🔗 [Tải zip](GX2000.zip)
 
-## 📦 Tài liệu hướng dẫn
-🔗 [PDF](huongdan.pdf)
+## 📦 VANTA GX Tools
+🔗 [Tải zip](VantaGX.zip)
 
 ---
